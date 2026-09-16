@@ -7,3 +7,6 @@ def subtrair(a,b):
 def calcular_desconto(preco,percentual):
     desconto = preco * percentual / 100
     return preco - desconto
+
+def multiplicar(a,b):
+    return a * b
